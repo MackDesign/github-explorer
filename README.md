@@ -1,6 +1,6 @@
 # React JS - Github Explorer
 
-<img src="https://mackdeveloper.com.br/github_repos/github-explorer/screen.gif" />
+<img src="https://mackdeveloper.com.br/github_repos/github-explorer/screen.png" />
 
 <p>Explore Repositórios no Github</p>
 
